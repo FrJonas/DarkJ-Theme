@@ -1,2 +1,2 @@
 # DarkJ-Theme
-A Theme for iOS Devices using SnowBoard
+A Icon Theme for iOS Devices using SnowBoard
